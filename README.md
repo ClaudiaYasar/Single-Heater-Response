@@ -3,10 +3,9 @@
 # Intelligent Control Systems  by Asst. Prof. Dr. Claudia F. Yaşar
 [![View Intelligent Control Systems Asst. Prof. Dr Claudia F. Yaşar on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/132303-intelligent-control-systems-asst-prof-dr-claudia-f-yasar)
 
-This repository contains the curriculum materials used for the Intelligent Control Systems course YTU Department of Control and Automation Eng.
+This repository contains the curriculum materials used for the Intelligent Control Systems course YTU Department of Control and Automation Engineering.
 # Single-Heater-Temperature-Response    
-# Intelligent Control Systems
-# YTU Department of Control and Automation Engineering
+
 This video demonstrates dynamic modeling of a heater system, deriving its transfer function. Real-time experiments, Simulink simulations, and visual comparisons offer insights into system behavior. Join us to explore theoretical-practical correlations in system dynamics.
 ![image](https://github.com/ClaudiaYasar/Single-Heater-Response/assets/132692602/d40853a3-f6ae-4d14-a92b-e8dc738f2f0f)
 # Acknowledgements
