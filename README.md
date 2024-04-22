@@ -6,7 +6,7 @@
 This repository contains the curriculum materials used for the Intelligent Control Systems course YTU Department of Control and Automation Engineering.
 # Single-Heater-Temperature-Response    
 
-This video demonstrates dynamic modeling of a heater system, deriving its transfer function. Real-time experiments, Simulink simulations, and visual comparisons offer insights into system behavior. Join us to explore theoretical-practical correlations in system dynamics.
+This work presents the dynamic modeling of a heater system, deriving its transfer function. Real-time experiments, Simulink simulations, and visual comparisons offer insights into system behavior. Join us to explore theoretical-practical correlations in system dynamics.
 ![image](https://github.com/ClaudiaYasar/Single-Heater-Response/assets/132692602/d40853a3-f6ae-4d14-a92b-e8dc738f2f0f)
 
 # Acknowledgements
